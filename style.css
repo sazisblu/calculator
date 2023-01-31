@@ -1,0 +1,55 @@
+body{
+background: #808076;
+font-family: sans-serif;
+}
+
+
+
+#head
+{
+font-size: 50px;
+font-weight: 1000;
+text-align: center;
+color: black;
+}
+
+table{
+margin-left: auto;
+margin-right: auto;
+border: 5px solid black;
+}
+
+.screen{
+    width: 230px;
+    height: 40px;
+}
+
+.AC{
+width:100px;
+color:cornflowerblue;
+font-weight: 900;
+}
+
+input{
+width: 50px;
+border-radius: 10px;
+font-size: 20px;
+cursor: pointer;
+font-weight: 700;
+}
+
+input:hover{
+    color: tomato;
+    background-color: #008CBA;}
+
+.operator{
+font-weight: bold;
+    color: rebeccapurple;
+
+}
+
+p{
+    font-weight: lighter;
+    font-size: 15px;
+
+}
